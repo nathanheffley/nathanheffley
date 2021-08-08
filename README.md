@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently building hand-crafted solutions for clients at [The Industrial Resolution](https://theindustrialresolution.com/) by day, and developing Laravel packages by night.
+I'm currently building hand-crafted solutions for clients at [The Industrial Resolution](https://theindustrialresolution.com/) by day and developing Laravel packages by night.
 
 [Laravel Slack Blocks](https://github.com/nathanheffley/laravel-slack-blocks) has been stable and running in production for a while now. Go check it out if you want to level-up the Slack messages your application sends.
 
