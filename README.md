@@ -4,9 +4,6 @@
     <a href="https://github.com/nathanheffley">
       <img src="https://img.shields.io/badge/GitHub-%40nathanheffley-blue?logo=github" alt="Find me on GitHub @nathanheffley" />
     </a>
-    <a href="https://heffley.social/@nathan">
-      <img src="https://img.shields.io/badge/Fediverse-%40nathan%40heffley.social-%236364ff?logo=mastodon" alt="Find me on the Fediverse @nathan@heffley.social"/>
-    </a>
   </div>
 </div>
 
